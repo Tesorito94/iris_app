@@ -44,7 +44,7 @@ openblas==0.3.21
 openssl==1.1.1t
 packaging==23.0
 pillow==9.4.0
-pip==23.0.1
+pip==22.0.4
 pooch==1.4.0
 pycparser==2.21
 pyopenssl==23.0.0
